@@ -268,7 +268,7 @@ function CafeExpressions() {
               <span className="italic text-foreground/70">expressions</span>
             </h2>
             <p className="text-foreground/70 text-sm leading-relaxed mb-6 max-w-md font-medium">
-              For the last five years, we've been developing a curated line of finished beverages crafted with the same care, precision, and standards that define Chelvies' award-winning cafes.
+              For the last five years, we've been developing a curated line of finished beverages crafted with the same care, precision, and standards that define Cuppa's award-winning cafes.
             </p>
             <p className="text-foreground/50 text-sm leading-relaxed mb-10 max-w-md">
               Experience our signature drinks in a new format. Learn more about the new program by clicking the link below.
@@ -384,7 +384,7 @@ function BoxSetsSection() {
 function AwardsSection() {
   const awards = [
     { year: "2024", title: "US Brewer's Cup Championship", subtitle: "2nd Place, Weihong Zhang" },
-    { year: "2024", title: "US Cup Tasters Championship", subtitle: "Finalist, Team Chelvies" },
+    { year: "2024", title: "US Cup Tasters Championship", subtitle: "Finalist, Team Cuppa" },
     { year: "2023", title: "The Webby Awards", subtitle: "Best Food & Drink Website" },
     { year: "2023", title: "Good Food Awards", subtitle: "Winner, Ethiopia Natural" },
   ];

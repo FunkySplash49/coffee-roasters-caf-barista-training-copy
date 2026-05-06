@@ -20,7 +20,7 @@ export default function Footer() {
                 <Coffee className="h-4 w-4 text-accent-foreground" />
               </div>
               <div>
-                <span className="font-bold text-sm tracking-[0.15em] uppercase text-primary-foreground block">Chelvies</span>
+                <span className="font-bold text-sm tracking-[0.15em] uppercase text-primary-foreground block">Cuppa</span>
                 <span className="text-xs tracking-[0.2em] uppercase text-primary-foreground/50 block">Coffee Company</span>
               </div>
             </div>
@@ -67,7 +67,7 @@ export default function Footer() {
             <h3 className="text-primary-foreground font-bold text-xs tracking-widest uppercase mb-5">Support</h3>
             <div className="flex flex-col gap-3">
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">Help Center</a>
-              <a href="mailto:hello@chelviescoffee.com" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">Email Us</a>
+              <a href="mailto:hello@cuppacoffee.com" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">Email Us</a>
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">FAQ</a>
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">Brew Guides</a>
               <a href="#" className="text-primary-foreground/60 hover:text-accent text-xs tracking-wide transition-colors duration-200">Classes</a>
@@ -115,7 +115,7 @@ export default function Footer() {
               <span className="text-primary-foreground/20">·</span>
               <a href="#" className="text-primary-foreground/40 hover:text-primary-foreground/70 text-xs transition-colors duration-200">Privacy Policy</a>
               <span className="text-primary-foreground/20">·</span>
-              <p className="text-primary-foreground/30 text-xs">© Chelvies Coffee Company</p>
+              <p className="text-primary-foreground/30 text-xs">© Cuppa Coffee Company</p>
             </div>
           </div>
         </div>

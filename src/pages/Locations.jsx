@@ -240,7 +240,7 @@ export default function Locations() {
             <p className="text-primary-foreground/70 text-sm max-w-xl mx-auto mb-10 leading-relaxed">
               Planning a private event? We'd love to be part of it. From intimate gatherings to corporate events, our team creates unforgettable coffee experiences.
             </p>
-            <a href="mailto:hello@chelviescoffee.com">
+            <a href="mailto:hello@cuppacoffee.com">
               <Button className="relative overflow-hidden bg-accent text-accent-foreground hover:bg-accent/90 px-10 py-6 text-sm tracking-widest uppercase font-bold hover:shadow-xl transition-all duration-300 hover:-translate-y-1">
                 <span className="absolute inset-0 bg-gradient-to-r from-transparent via-primary-foreground/20 to-transparent animate-[shimmer_3s_ease-in-out_infinite] bg-[length:200%_100%]" />
                 Get In Touch <ArrowRight className="ml-2 h-4 w-4" />

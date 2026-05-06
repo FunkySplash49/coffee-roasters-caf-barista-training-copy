@@ -58,7 +58,7 @@ export default function Header() {
                 className={`font-black text-xl sm:text-2xl tracking-[0.1em] uppercase block leading-none transition-colors duration-300 ${scrolled || !isHome ? "text-foreground" : "text-primary-foreground"}`}
                 style={{ fontFamily: "'Cinzel', 'Montserrat', serif" }}
               >
-                Chelvies
+                Cuppa
               </span>
             </div>
           </Link>

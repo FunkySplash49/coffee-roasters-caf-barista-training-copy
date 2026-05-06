@@ -67,7 +67,7 @@ export default function Menu() {
           className="relative z-10 max-w-7xl mx-auto px-6 flex flex-col justify-center"
           style={{ minHeight: "45vh" }}
         >
-          <p className="text-primary-foreground/50 text-xs tracking-widest uppercase mb-4">Chelvies Coffee Company</p>
+          <p className="text-primary-foreground/50 text-xs tracking-widest uppercase mb-4">Cuppa Coffee Company</p>
           <h1
             className="text-6xl sm:text-8xl font-bold text-primary-foreground leading-[0.85] tracking-tighter mb-6"
             style={{ fontFamily: "'Montserrat', system-ui, sans-serif" }}
