@@ -1,0 +1,16 @@
+{
+  "type": "object",
+  "properties": {
+    "publication": {
+      "type": "string"
+    },
+    "quote": {
+      "type": "string"
+    },
+    "logo_url": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "PressQuote"
+}

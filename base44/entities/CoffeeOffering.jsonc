@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "origin": {
+      "type": "string"
+    },
+    "tasting_notes": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "image_url": {
+      "type": "string"
+    },
+    "price": {
+      "type": "string"
+    },
+    "roast_level": {
+      "type": "string"
+    },
+    "badge": {
+      "type": "string"
+    }
+  },
+  "required": [],
+  "name": "CoffeeOffering"
+}
